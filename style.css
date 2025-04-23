@@ -1,0 +1,55 @@
+div {
+    background-color: aquamarine;
+    background-position: 0cqh;
+    text-align: center;
+    
+}
+table, th, td {
+    border: 5px double;
+  }
+
+
+caption {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-stretch: extra-condensed;
+}
+
+thead {
+    
+ border-color: aquamarine;
+ font-size: x-large;
+ font-stretch: extra-expanded ;
+ font-variant-position: super;
+ font-style: align-items: center;
+}
+
+tbody {
+    color: rgba(216, 17, 44,.7);
+    font-size: x-large;  
+}
+
+button {
+   /* align-content: center;
+    font-style: oblique;
+    font-size: larger;
+    font-style: align-items: stretch;
+    margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 150px;
+
+*/
+
+font-size: xx-large;
+font-stretch: extra-expanded;
+font-family: 'Courier New', Courier, monospace;
+  background-color: #21cc2f; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: double;
+  display: inline-block;
+  font-size: 16px;
+}
