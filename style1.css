@@ -1,0 +1,29 @@
+.test{
+    background-color: aquamarine;
+    
+    
+    background-image: url(image02.png);
+    background-repeat: no-repeat;
+   background-position-y: top;
+   background-position-x: right;
+
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    color: blue;
+    font-weight: 900;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+    font-weight: 600;
+
+}
+ 
+button{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    position: -ms-page;
+}
