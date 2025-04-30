@@ -6,6 +6,8 @@
     background-repeat: no-repeat;
    background-position-y: top;
    background-position-x: right;
+   text-align: left;
+   
 
 }
 h1{
@@ -13,11 +15,13 @@ h1{
     font-size: xx-large;
     color: blue;
     font-weight: 900;
+    margin-left: 150px;
 }
 p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: brown;
     font-weight: 600;
+    margin-left: 150px;
 
 }
  
@@ -26,4 +30,5 @@ button{
     font-family: 'Times New Roman', Times, serif;
     color: blueviolet;
     position: -ms-page;
+    margin-left: 700px;
 }

@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+    
+}
+
+thead{
+   background-color: aquamarine;
+    
+text-align: center;
+font-stretch: expanded;
+
+}
+.class1 { 
+    background-color: rgb(220, 233, 218);
+}
+ 
+
+
+td{
+    font-size: xx-large;
+    text-align: center;
+}
