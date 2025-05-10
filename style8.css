@@ -1,0 +1,159 @@
+body{
+    background-color: aquamarine;
+}
+div{
+    width: 250;
+    height: 250;
+    align-items:center;
+}
+.tab{
+    display: inline-block;
+    
+    border-style: solid;
+    border-color:rgb(9, 238, 162);
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.tab2{
+    display: inline-block;
+    
+    border-style: solid;
+    border-color:rgb(9, 238, 162);
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.lab{
+    display: inline-block;
+    
+    border-style: solid;
+    border-color:rgb(9, 238, 162);
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.comp{
+    display: inline-block;
+    
+    border-style: solid;
+    border-color:rgb(9, 238, 162);
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.comp2{
+    display: inline-block;
+    
+    border-style: solid;
+    border-color:rgb(9, 238, 162);
+    align-content: center;
+    text-align: center;
+    text-decoration-line:underline ;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+h3:hover{
+
+    font-size: xx-large;
+    color: blue;
+    background-color: rgb(160, 202, 202);
+  
+}
+
+input:checked{
+    opacity: 50%;
+    
+}
+input:focus{
+    background-color: rgb(196, 177, 214);
+    text-align: center;
+    font-weight: bolder;
+    border-color: brown;
+    font-size: x-large;
+   
+}
+ button:hover{
+    font-size: x-large;
+    color: blue;
+    background-color: chartreuse;
+
+ }
+ button:active{
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+ }
+
+ .tab{
+    border-radius: 20%;
+    
+ }
+
+ .tab:hover{
+    border: 3px double red;
+    text-decoration: underline;
+    font-size: x-large;
+    color: blue;
+ }
+
+ .tab2{
+    border-radius: 20%;
+    
+ }
+
+ .tab2:hover{
+    border: 3px double red;
+    text-decoration: underline;
+    font-size: x-large;
+    color: blue;
+ }
+
+ .lab{
+    border-radius: 20%;
+    
+ }
+
+ .lab:hover{
+    border: 3px double red;
+    text-decoration: underline;
+    font-size: x-large;
+    color: blue;
+ }
+
+ .comp{
+    border-radius: 20%;
+    
+ }
+
+ .comp:hover{
+    border: 3px double red;
+    text-decoration: underline;
+    font-size: x-large;
+    color: blue;
+ }
+
+ .comp2{
+    border-radius: 20%;
+    
+ }
+
+ .comp2:hover{
+    border: 3px double red;
+    text-decoration: underline;
+    font-size: x-large;
+    color: blue;
+ }
