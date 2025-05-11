@@ -157,3 +157,33 @@ input:focus{
     font-size: x-large;
     color: blue;
  }
+
+ .trans{
+   
+   width: 100px;
+   height: 100px;
+   border: 3px double blue;
+   background-color: rgb(40, 175, 199);
+   margin-left: 500px;
+   text-align: center;
+   transition: 10s;
+   
+ }
+
+ .trans:hover{
+   width: 150px;
+   height: 150px;
+   border: 8px double red;
+    text-decoration: underline;
+    
+    font-size: x-large;
+    font-weight: 300px ;
+    position: absolute;
+    color: blue;
+    border-radius: 50%;
+    transform: rotate(720deg);
+   
+ }
+
+
+
